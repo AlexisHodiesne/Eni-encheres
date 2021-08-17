@@ -1,0 +1,76 @@
+/*!
+ * Start Bootstrap - 4 Col Portfolio (https://startbootstrap.com/template-overviews/4-col-portfolio)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-4-col-portfolio/blob/master/LICENSE)
+ */
+body {
+	padding-top: 54px;
+}
+
+@media ( min-width : 992px) {
+	body {
+		padding-top: 56px;
+	}
+}
+
+.center-block {
+	display: block;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.card-img {
+	width: 250px;
+	max-width: 100%;
+	height: auto;
+}
+
+.footer-demodule {
+	margin-top: 50px;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin-bottom: 30px;
+}
+
+img {
+	width: 50px;
+	border-radius: 50%;
+}
+
+form label {
+	float: left;
+	width: 250px;
+	margin: 3px 0px 0px 0px;
+}
+
+form input {
+	margin: 3px 3px 0px 0px;
+	border: 1px #999 solid;
+}
+
+form input.submit {
+	margin-left: 200px;
+}
+
+form .requis {
+	color: #c00;
+}
+
+form .erreur {
+	color: #c00;
+}
+
+form .succes {
+	color: #00ff40;
+}
+
+.support {
+	float: right;
+}
+
+.obligatoire {
+	color: blue;
+	font-weight: bolder;
+	font-size: larger;
+}

@@ -1,0 +1,23 @@
+.form-center {
+	margin-top: 50px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.form-mail {
+	margin-left: -90px;
+}
+
+.form-mdp {
+	margin-left: -87px;
+}
+
+form .info {
+    font-style: italic;
+    color: #E8A22B;
+}
+
+form .erreur {
+    font-style: italic;
+    color: #ff0000;
+}

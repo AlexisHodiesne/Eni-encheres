@@ -1,0 +1,22 @@
+/* Général ------------------------------------------------------------------------------------- */
+fieldset {
+	padding: 10px;
+	border: 1px #0568CD solid;
+}
+
+/* Forms --------------------------------------------------------------------------------------- */
+form label {
+	float: left;
+	width: 220px;
+	margin: 3px 0px 0px 0px;
+}
+
+form input {
+	margin: 3px 3px 0px 0px;
+	border: 1px #999 solid;
+}
+
+form input.sansLabel {
+	margin-left: 220px;
+	margin-top: 10px;
+}
